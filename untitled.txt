@@ -1,0 +1,9 @@
+Amazon Price Checker Updates Needed
+    1. First thing I will need to do is figure out how to store all of my links for it to check. I will also need to write a loop in order for the code to check each URL accordingly and compare it to the target price.
+    2. I will need to figure out a way to save each value, thinking maybe in a list, that has the Title, Price, and Link saved for each item. This is needed really so I can send myself just one email and not to send myself multiple emails during the time set needed.
+    3. I will also need to figure out how to change the email settings in order to autoload the next link, instead of hard coding the link into the body. Since I am trying to check multiple items, hard coding would not work.
+    
+    
+    
+    Issues:
+    1. Some of the books are not listed under the same conditions as my regular kindle books. This seems to mostly apply to Textbooks, but would likely also be a problem for regular books and items as well. I need to look into this further.
