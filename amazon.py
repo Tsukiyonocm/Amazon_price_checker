@@ -43,21 +43,16 @@ def check_price(URL):
         global not_buying
         not_buying = not_buying + 1
 
-def send_mail(price_threshold):
+def send_mail(dict):
     server = smtplib.SMTP("smtp.gmail.com", 587)
     server.ehlo()
     server.starttls()
     server.ehlo()
 
     # If posting online, make sure to hide the password here
-    server.login("craigmenne@gmail.com", #insert password here)
+    server.login("craigmenne@gmail.com", "")
     subject = "Price Checker is working"
-    body = ""
-
-    for id, info in price_threshold.items():
-        for key in info:
-            body = body + "  " + str(info[key])
-        body = body + "\n\n"
+    body = build_email(price_threshold)
 
     msg = f"Subject: {subject}\n\n{body}"
 
@@ -70,6 +65,19 @@ def send_mail(price_threshold):
     print("Email has been sent!")
 
     server.quit()
+
+def build_email(dict):
+    body = ""
+
+    if len(price_threshold) <=  7:
+            body = body + "Nothing new to report here, But here are the usuals anyway:" + "\n\n"
+
+    for id, info in price_threshold.items():
+        for key in info:
+            body = body + "  " + str(info[key])
+        body = body + "\n\n"
+
+    return body
 
 def none_test(URL):
     """
