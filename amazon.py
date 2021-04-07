@@ -81,7 +81,9 @@ def build_email(dict):
     body = ""
 
     if len(price_threshold) <=  7:
-            body = body + "Nothing new to report here, But here are the usuals anyway:" + "\n\n"
+        body = body + "Nothing new to report here, But here are the usuals anyway:" + "\n\n"
+    else:
+        body = body + "It appears there was a new item addition. Please check carefully!" + "\n\n"
 
     for id, info in price_threshold.items():
         for key in info:
