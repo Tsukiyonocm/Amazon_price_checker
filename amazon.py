@@ -18,6 +18,7 @@ def check_all():
     print(price_threshold)
     send_mail(price_threshold)
 
+
 def check_price(URL):
     # none_test(URL)
     """
@@ -43,7 +44,12 @@ def check_price(URL):
         global not_buying
         not_buying = not_buying + 1
 
+
 def send_mail(dict):
+    """
+    Puts together all the pieces and sends the email via the smtplib module.
+    """
+
     server = smtplib.SMTP("smtp.gmail.com", 587)
     server.ehlo()
     server.starttls()
@@ -66,7 +72,12 @@ def send_mail(dict):
 
     server.quit()
 
+
 def build_email(dict):
+    """
+    Takes the dictionary and creates the body of the email.
+    """
+
     body = ""
 
     if len(price_threshold) <=  7:
@@ -79,12 +90,14 @@ def build_email(dict):
 
     return body
 
+
 def none_test(URL):
     """
     Used to check if any of the URLs are a None Type. This would happen
     largely right now if the price is not listed as kindle-price in the
     html of the book URL.
     """
+
     page = requests.get(URL, headers=headers)
     soup = BeautifulSoup(page.content, "html.parser")
 
@@ -93,5 +106,7 @@ def none_test(URL):
     price = soup.find(id="kindle-price")
     if price is None:
         print(URL)
+
+
 
 check_all()
