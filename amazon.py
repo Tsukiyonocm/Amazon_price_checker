@@ -56,7 +56,7 @@ def send_mail(dict):
     server.ehlo()
 
     # If posting online, make sure to hide the password here
-    server.login("craigmenne@gmail.com", "jecxprwcmsfgsnse")
+    server.login("craigmenne@gmail.com", "")
     subject = "Price Checker is working"
     body = build_email(price_threshold)
 
