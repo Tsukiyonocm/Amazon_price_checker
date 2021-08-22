@@ -17,7 +17,7 @@ URL_batch_3 = ["https://www.amazon.com/dp/B07RSJWN62/?coliid=II8LFE5R2QO47&colid
 
 URL_batch_4 = ["https://www.amazon.com/dp/B07X16MWK9/?coliid=ICMN8JFM3ZH93&colid=35QH7NCHBH01U&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B07PWYFGY6/?coliid=I71Z32XX9Y8WV&colid=35QH7NCHBH01U&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B07N4C6LGR/?coliid=I2MNWYURPCWLPJ&colid=35QH7NCHBH01U&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B006YDIYNC/?coliid=I313N2CXMYJ3UX&colid=35QH7NCHBH01U&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B07D6C6P29/?coliid=I3JI3GCKKGCUBM&colid=35QH7NCHBH01U&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B089S7FPLB/?coliid=IS4O1O0F00XT3&colid=35QH7NCHBH01U&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B08BYWH6CS/?coliid=I1TBHACVGEABB7&colid=35QH7NCHBH01U&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B08KPJW7L9/?coliid=I92H89GVOZRL2&colid=35QH7NCHBH01U&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B08FHBLWLN/?coliid=I2PMPZX2E2NKOJ&colid=35QH7NCHBH01U&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B08KRG4S1Z/?coliid=I17DV9ZWQSPWUG&colid=35QH7NCHBH01U&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B007GBTA5W/?coliid=I3PGQN7OVWL1GX&colid=35QH7NCHBH01U&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B08Y8LBCLH/?coliid=I1G79Q7KISQAZ4&colid=35QH7NCHBH01U&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B0055PJ4R0/?coliid=I1GXCLOBAF0U42&colid=35QH7NCHBH01U&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B019B6TVZI/?coliid=I2UQFF8XI61VFJ&colid=35QH7NCHBH01U&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B082S2TG11/?coliid=IQSO4XY1UJUGV&colid=35QH7NCHBH01U&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B07V5KKSZT/?coliid=I1EWXE8KQON0DR&colid=35QH7NCHBH01U&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B07V327P61/?coliid=I2U4UMP36D1549&colid=35QH7NCHBH01U&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B075RKFHVB/?coliid=I2V48G0ZF2W833&colid=35QH7NCHBH01U&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B00C5R7AJK/?coliid=I12XUXZ3F1095N&colid=16G3O3DI71L7U&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B08FZM1Y1G/?coliid=IZQ8YAPHFB9KO&colid=35QH7NCHBH01U&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B08ZCSCSD3/?coliid=I1CVSWG4PDGS6Y&colid=35QH7NCHBH01U&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B07TK2ZM56/?coliid=I1ID24NSK8CZUK&colid=35QH7NCHBH01U&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B001RKFU4I/?coliid=I27GDKFY67K3P1&colid=35QH7NCHBH01U&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B00C5R7AJK/?coliid=ISEZD7KKTC6AS&colid=35QH7NCHBH01U&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B075RKFHVB/?coliid=I2V48G0ZF2W833&colid=35QH7NCHBH01U&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B000SEH40M/?coliid=I11N1L6WO1YICM&colid=1GQME503601AW&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B01FPGQ8B8/?coliid=I3JTJA6X80TLR8&colid=1GQME503601AW&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B01BRFKMGI/?coliid=IZ8X8309FUFET&colid=1GQME503601AW&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B00R047Y7G/?coliid=I6GS7EPZU9Y1V&colid=1GQME503601AW&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B00QDYVA1U/?coliid=I2MORCWFBK25Y&colid=1GQME503601AW&psc=0&ref_=lv_ov_lig_dp_it"]
 
-URL_batch_5 = URLs = ["https://www.amazon.com/dp/B00IBYYVOS/?coliid=I2SGHVI4LCN3UL&colid=1GQME503601AW&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B00F1W08CC/?coliid=I1U769IESZQUSO&colid=1GQME503601AW&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B00A1M5EH6/?coliid=I3UC58RQOJIXON&colid=1GQME503601AW&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B0078XCSRA/?coliid=I2GX79YB8ICJGY&colid=1GQME503601AW&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B004Y1Q762/?coliid=I2KKJ1FWPVYG65&colid=1GQME503601AW&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B002RLBKO0/?coliid=I3GY0CFUSRULZE&colid=1GQME503601AW&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B0015DYJ1C/?coliid=I2E9VCGBEUH5D1&colid=1GQME503601AW&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B0013TTKUI/?coliid=I1YB1C50TV3XGG&colid=1GQME503601AW&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B002DNZGEM/?coliid=IF11O7OIEGD5H&colid=1GQME503601AW&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B002DNZFZ2/?coliid=I1ORAQNGAIX34I&colid=1GQME503601AW&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B002D9ZLI2/?coliid=I3W4ZM3CTRSOBJ&colid=1GQME503601AW&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B002E58OE8/?coliid=I2LXU0O8PD3FVH&colid=1GQME503601AW&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B001NLL4NW/?coliid=I3E13SKPPRAM4S&colid=1GQME503601AW&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B002DO17LM/?coliid=I11FGR208QACUL&colid=1GQME503601AW&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B001ANUP7O/?coliid=I3NMOSKU4L5BIT&colid=1GQME503601AW&psc=0&ref_=lv_ov_lig_dp_it"]
+URL_batch_5 = ["https://www.amazon.com/dp/B00IBYYVOS/?coliid=I2SGHVI4LCN3UL&colid=1GQME503601AW&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B00F1W08CC/?coliid=I1U769IESZQUSO&colid=1GQME503601AW&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B00A1M5EH6/?coliid=I3UC58RQOJIXON&colid=1GQME503601AW&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B0078XCSRA/?coliid=I2GX79YB8ICJGY&colid=1GQME503601AW&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B004Y1Q762/?coliid=I2KKJ1FWPVYG65&colid=1GQME503601AW&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B002RLBKO0/?coliid=I3GY0CFUSRULZE&colid=1GQME503601AW&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B0015DYJ1C/?coliid=I2E9VCGBEUH5D1&colid=1GQME503601AW&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B0013TTKUI/?coliid=I1YB1C50TV3XGG&colid=1GQME503601AW&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B002DNZGEM/?coliid=IF11O7OIEGD5H&colid=1GQME503601AW&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B002DNZFZ2/?coliid=I1ORAQNGAIX34I&colid=1GQME503601AW&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B002D9ZLI2/?coliid=I3W4ZM3CTRSOBJ&colid=1GQME503601AW&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B002E58OE8/?coliid=I2LXU0O8PD3FVH&colid=1GQME503601AW&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B001NLL4NW/?coliid=I3E13SKPPRAM4S&colid=1GQME503601AW&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B002DO17LM/?coliid=I11FGR208QACUL&colid=1GQME503601AW&psc=0&ref_=lv_ov_lig_dp_it", "https://www.amazon.com/dp/B001ANUP7O/?coliid=I3NMOSKU4L5BIT&colid=1GQME503601AW&psc=0&ref_=lv_ov_lig_dp_it"]
 
 
 headers = {"User-Agent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36", "Referer" : "https://www.google.com", 
@@ -28,22 +28,19 @@ headers = {"User-Agent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit
 'Connection' : 'close'}
 
 price_threshold = {}
-not_buying = 0
-batches = [URL_batch_1, URL_batch_2, URL_batch_3, URL_batch_4, URL_batch_5]
-
-# def check_all():
-#     for URL in URL_batch_1:
-#         check_price(URL)
-#     print(price_threshold)
-#     send_mail(price_threshold)
+batch_num = 0
+batches = [URL_batch_1] #, URL_batch_2, URL_batch_3, URL_batch_4, URL_batch_5
 
 def check_all():
+    global batch_num
     for list in batches:
         for URL in list:
             check_price(URL)
         print(price_threshold)
-        send_mail(price_threshold)
+        # send_mail(price_threshold)
         # time.sleep(randint(1800, 3600))
+    batch_num += 1
+    check_dict(price_threshold)
 
 def check_price(URL):
     # none_test(URL)
@@ -66,9 +63,9 @@ def check_price(URL):
         dict_price = converted_price
         price_threshold[dict_index] = {"Title": dict_title, "Price": dict_price, "URL": URL}
 
-    else:
-        global not_buying
-        not_buying = not_buying + 1
+    # else:
+    #     global not_buying
+    #     not_buying = not_buying + 1
 
     time.sleep(randint(5,15))
 
@@ -138,6 +135,15 @@ def none_test(URL):
     
     time.sleep(randint(5,15))
 
+dict_test = {
+    0: {'Title': 'Strange Dogs: An Expanse Novella (The Expanse)', 'Price': 2.99, 'URL': 'https://www.amazon.com/dp/B06ZZ1MKW8/?coliid=I1S7URDP873KP1&colid=35QH7NCHBH01U&psc=0&ref_=lv_ov_lig_dp_it'}, 
+    1: {'Title': 'The Churn: An Expanse Novella (The Expanse)', 'Price': 2.99, 'URL': 'https://www.amazon.com/dp/B00I82884W/?coliid=I2NSN362O7FHKI&colid=35QH7NCHBH01U&psc=0&ref_=lv_ov_lig_dp_it'}, 
+    2: {'Title': 'Gods of Risk: An Expanse Novella (The Expanse)', 'Price': 2.99, 'URL': 'https://www.amazon.com/dp/B008CJ241O/?coliid=IAWURSJFRAQNQ&colid=35QH7NCHBH01U&psc=0&ref_=lv_ov_lig_dp_it'}, 
+    3: {'Title': 'Auberon: An Expanse Novella (The Expanse)', 'Price': 2.99, 'URL': 'https://www.amazon.com/dp/B07YKR19FN/?coliid=I1RWGHGC9RNFF8&colid=35QH7NCHBH01U&psc=0&ref_=lv_ov_lig_dp_it'}, 
+    4: {'Title': 'Welcome to Dead House (Classic Goosebumps #13)', 'Price': 3.99, 'URL': 'https://www.amazon.com/dp/B005E8AS28/?coliid=I3U17KL9OKAFUD&colid=35QH7NCHBH01U&psc=0&ref_=lv_ov_lig_dp_it'}, 
+    5: {'Title': 'The Butcher of Anderson Station: A Story of The Expanse', 'Price': 3.99, 'URL': 'https://www.amazon.com/dp/B0052AHUYM/?coliid=I1DRA4PKI79VBP&colid=35QH7NCHBH01U&psc=0&ref_=lv_ov_lig_dp_it'}, 
+    6: {'Title': 'The Vital Abyss: An Expanse Novella (The Expanse)', 'Price': 3.99, 'URL': 'https://www.amazon.com/dp/B015NRKNS8/?coliid=I16X6Z2NLDJ08L&colid=35QH7NCHBH01U&psc=0&ref_=lv_ov_lig_dp_it'}
+    }
 
 
 check_all()
